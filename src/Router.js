@@ -17,7 +17,7 @@ import GoToFinal from './pages/GoToFinal';
 
 export default function DefaultRouter() {
   return (
-    <Router>
+    <Router basename="plutogame">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/Start" element={<Start />} />
