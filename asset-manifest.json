@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/plutogame/static/js/main.b341335a.js",
+    "main.js": "/plutogame/static/js/main.0beb7822.js",
     "static/js/453.4300b4cf.chunk.js": "/plutogame/static/js/453.4300b4cf.chunk.js",
     "static/media/goToStatue.png": "/plutogame/static/media/goToStatue.6857a92c6e365d10e718.png",
     "static/media/goToPostOffice.png": "/plutogame/static/media/goToPostOffice.ccd07b7e4b84d4662e5d.png",
     "static/media/goToOffice.png": "/plutogame/static/media/goToOffice.c590bce2ca2ca41b3c6a.png",
     "static/media/goToDongsan.png": "/plutogame/static/media/goToDongsan.c04326b9de194b3883b4.png",
     "index.html": "/plutogame/index.html",
-    "main.b341335a.js.map": "/plutogame/static/js/main.b341335a.js.map",
+    "main.0beb7822.js.map": "/plutogame/static/js/main.0beb7822.js.map",
     "453.4300b4cf.chunk.js.map": "/plutogame/static/js/453.4300b4cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.b341335a.js"
+    "static/js/main.0beb7822.js"
   ]
 }
